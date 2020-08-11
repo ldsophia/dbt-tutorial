@@ -3,7 +3,7 @@
     materialized='view'
   )
 }}
-
+--comment1 for testing
 with customers as (
 
     select
